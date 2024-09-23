@@ -1,4 +1,3 @@
-# Word-Embedding
 # Word Embedding Layer
 This project uses a Word Embedding Layer to convert one-hot encoded text data into dense vector representations. The process is as follows:
 
